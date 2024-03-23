@@ -1,0 +1,78 @@
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\appsettings.Development.json
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\appsettings.json
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.exe
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.deps.json
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.runtimeconfig.json
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.pdb
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\Npgsql.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\System.Text.Json.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.csproj.AssemblyReference.cache
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.AssemblyInfoInputs.cache
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.AssemblyInfo.cs
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.csproj.CoreCompileInputs.cache
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.MvcApplicationPartsAssemblyInfo.cs
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.MvcApplicationPartsAssemblyInfo.cache
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.tugas2praktikum.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.build.tugas2praktikum.props
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tugas2praktikum.props
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tugas2praktikum.props
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\staticwebassets.build.json
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\staticwebassets.development.json
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\scopedcss\bundle\tugas2praktikum.styles.css
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.csproj.CopyComplete
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\refint\tugas2praktikum.dll
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.pdb
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.genruntimeconfig.cache
+D:\Semester 4\PAA (Pemrograman Antarmuka Aplikasi)\Tugas2praktikum\tugas2praktikum\obj\Debug\net6.0\ref\tugas2praktikum.dll
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.dll
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\refint\tugas2praktikum.dll
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.pdb
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\appsettings.json
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.exe
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.deps.json
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.runtimeconfig.json
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\tugas2praktikum.pdb
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\Npgsql.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rayha\Downloads\tugas2praktikum\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.csproj.AssemblyReference.cache
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.AssemblyInfoInputs.cache
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.AssemblyInfo.cs
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.csproj.CoreCompileInputs.cache
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.tugas2praktikum.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.build.tugas2praktikum.props
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tugas2praktikum.props
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tugas2praktikum.props
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\scopedcss\bundle\tugas2praktikum.styles.css
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.csproj.CopyComplete
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\tugas2praktikum.genruntimeconfig.cache
+C:\Users\rayha\Downloads\tugas2praktikum\obj\Debug\net6.0\ref\tugas2praktikum.dll
